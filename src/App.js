@@ -1,11 +1,12 @@
 import './App.css';
+import Pain from './components/Pain';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>sup bitchs</p>
-      </header>
+      <div className="App-main">
+        <Pain />
+      </div>
     </div>
   );
 }
