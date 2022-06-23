@@ -18,11 +18,15 @@ const Pain = () => {
 
   const suffering = new Tone.Player(require('./bass_4.opus')).toDestination();
   const suffering2 = new Tone.Player(require('./bass_4.mp3')).toDestination();
+  const suffering3 = new Tone.Player(require('./bass_4.wav')).toDestination();
+  const suffering4 = new Tone.Player(require('./bass_4.ogg')).toDestination();
 
   return (
     <>
-      <button onClick={() => suffering.start()}>Does this make sound?</button>
-      <button onClick={() => suffering2.start()}>Does this make sound?</button>
+      <button onClick={() => suffering.start()}>Does opus make sound?</button>
+      <button onClick={() => suffering2.start()}>Does mp3 make sound?</button>
+      <button onClick={() => suffering3.start()}>Does wav make sound?</button>
+      <button onClick={() => suffering4.start()}>Does ogg make sound?</button>
       <br />
       <button
         onClick={() => {
