@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/apfelstrudel/static/css/main.dba93e04.css",
+    "main.js": "/apfelstrudel/static/js/main.a1f133dc.js",
+    "static/js/787.5058d087.chunk.js": "/apfelstrudel/static/js/787.5058d087.chunk.js",
+    "static/media/bass_4.mp3": "/apfelstrudel/static/media/bass_4.ac39777c44df74f7d38b.mp3",
+    "static/media/bass_4.opus": "/apfelstrudel/static/media/bass_4.eae95e2fc17b51ef169f.opus",
+    "index.html": "/apfelstrudel/index.html",
+    "main.dba93e04.css.map": "/apfelstrudel/static/css/main.dba93e04.css.map",
+    "main.a1f133dc.js.map": "/apfelstrudel/static/js/main.a1f133dc.js.map",
+    "787.5058d087.chunk.js.map": "/apfelstrudel/static/js/787.5058d087.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba93e04.css",
+    "static/js/main.a1f133dc.js"
+  ]
+}
